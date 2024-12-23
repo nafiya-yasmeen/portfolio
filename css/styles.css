@@ -360,7 +360,7 @@ input[type='checkbox'] {
 
 .header {
 	
-	background:url('./images/[removal.ai]_41b9502d-d4fd-4fe7-ba9f-f1aa22acfdd4-25cf95a7-f5f1-4d4b-8b54-26555228ab73-2.png') center center no-repeat;
+	background:url('../images/nafff.png') center center no-repeat;
 	background-position: right center;
 	height: 60vh;
 	display: flex;	
@@ -798,24 +798,16 @@ a:hover.back-to-top {
 		padding-bottom: 9rem;
 	}
 	
-
-	
 	.basic-2 .text-box {
 		padding-right: 2.125rem;
 		padding-left: 2.125rem;
 	}
-	
-
-
 	
 	.ex-basic-1 .text-box {
 		padding: 1.75rem 2rem 0.875rem 2rem;
 	}
 	
 }
-
-
-
 
 @media (min-width: 992px) {
 	
@@ -832,13 +824,6 @@ a:hover.back-to-top {
 		margin-left: auto;
 		
 	}
-	
-
-
-
-
-
-
 	
 	.split {
 		height: 760px;
@@ -861,9 +846,6 @@ a:hover.back-to-top {
 		width: 400px;
 		margin-left: 3rem;
 	}
-	
-
-
 	
 	.cards-1 .card {
 		display: inline-block;
@@ -893,26 +875,16 @@ a:hover.back-to-top {
 		margin-right: 1.125rem;
 	}
 	
-
-
-	
 	.accordion-1 .accordion {
 		width: 730px;
 		margin-right: auto;
 		margin-left: auto;
-	}
-	
-
-
-	
+	}	
 	.form-1 form {
 		width: 790px;
 		margin-right: auto;
 		margin-left: auto;
 	}
-	
-
-
 	
 	.ex-cards-1 .card {
 		display: inline-block;
@@ -927,9 +899,6 @@ a:hover.back-to-top {
 	
 }
 
-
-
-
 @media (min-width: 1200px) {
 
 	
@@ -938,8 +907,6 @@ a:hover.back-to-top {
 		line-height: 4.625rem;
 	}
 	
-
-
 	
 	.navbar .container {
 		max-width: 1330px;
@@ -1005,11 +972,6 @@ a:hover.back-to-top {
 
 
 }
-
-
-
-
-
   
   body {
 	font-family: Arial, sans-serif;
@@ -1052,16 +1014,6 @@ a:hover.back-to-top {
 	color: #ddd;
   }
   
-
-
-
-
-
-
-
-
-
-
 /* General form container */
 form {
 	padding: 40px 0;

@@ -269,7 +269,7 @@ select {
 	-ms-appearance: none;
     -o-appearance: none;
     appearance: none;
-    background-image: url('../images/down-arrow.png');
+    background-image: url('./images/down-arrow.png');
     background-position: 96% 50%;
     background-repeat: no-repeat;
     outline: none;
@@ -340,7 +340,7 @@ input[type='checkbox'] {
 
 .header {
 	
-	background:url('/images/[removal.ai]_41b9502d-d4fd-4fe7-ba9f-f1aa22acfdd4-25cf95a7-f5f1-4d4b-8b54-26555228ab73-2.png') center center no-repeat;
+	background:url('images/lap2.jpeg') center center no-repeat;
 	background-position: right center;
 	height: 60vh;
 	display: flex;	
